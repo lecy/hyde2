@@ -4,7 +4,7 @@ format:
   html:
     include-in-header: ./www/head.html
     include-after-body: ./www/sidebar.html
-    embed-resources: true
+    css: ./www/hyde.css
 ---
 
 ## What is Quarto?
